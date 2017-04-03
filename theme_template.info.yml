@@ -1,0 +1,10 @@
+name: Theme Template
+type: theme
+base theme: classy
+Description: "A modern & reponsive Drupal 8 Theme"
+package: custom
+core: 8.x
+screenshot: screenshot.png
+
+libraries:
+  - theme_template/global-styling
